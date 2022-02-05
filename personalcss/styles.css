@@ -78,11 +78,12 @@
 .bg-light li a:hover{
 
   background: rgb(58, 2, 2);
+  /*
   transform : scale(2);
-  -moz-transform : scale(1.5); /* Firefox */
-  -webkit-transform : scale(1.5); /* Chrome - Safari */
-  -o-transform : scale(1.5); /* Opera */
-  -ms-transform : scale(1.5); /* IE9 */
+  -moz-transform : scale(1.5); 
+  -webkit-transform : scale(1.5); 
+  -o-transform : scale(1.5); 
+  -ms-transform : scale(1.5); */
 }
 
 /*************** MODIFICACIONES CONTAINER BOOTSTRAP  ***************/

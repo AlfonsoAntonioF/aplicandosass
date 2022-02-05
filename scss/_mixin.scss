@@ -1,10 +1,28 @@
-/* mixin sin parametros*/
+/* mixin con parametros*/
 
 
 
 
 
 
-@mixin parrafos {
+@mixin parrafos( $alineacion ,$color,$margen,$padd  ) {
     
+    text-align: $alineacion;
+    margin-color: $color;
+    margin: $margen;
+    padding: $padd;
+
+    
+}
+.row{
+align-content: space-around;
+
+
+collage{
+    @include parrafos(center,$colorprincipalgradiente,2rem,1rem );
+    display: inline-flex;
+    align-content: space-around;
+    
+
+} 
 }
