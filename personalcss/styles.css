@@ -604,9 +604,7 @@ p{
   width: 40vw;
 
 }
-.containerForm{
-  background-image: url(../img/cotizacion.png);
-}
+
 
 /*****************************************  responsive  ******************************************/
 @media ( max-width:1080px){

@@ -1,5 +1,11 @@
+@import "variables";
+@import "maps";
+@import "extend";
+@import "mixin";
+
+
 body{
-    background-color: rgb(253, 198, 198);
+    background-color:rgb(238, 228, 228);
 }
 
 .formulario{
@@ -14,7 +20,7 @@ body{
 
     }
     h3{
-        color: rgb(48, 7, 7);
+        color: $colorprincipalgradiente;
         align-content: center;
         margin: 1rem;
         font-size: 18px;
@@ -28,7 +34,7 @@ body{
     input{
         border-radius: 12px;
         background-color: rgb(245, 237, 237);
-        color: rgb(70, 7, 7);
+        color: $colorprincipalgradiente;
     }
 
     button{
