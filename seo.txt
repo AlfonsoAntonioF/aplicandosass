@@ -1,0 +1,8 @@
+Para el SEO de la pagina se integraron las soguinetes acciones:
+- Inclusión de las metas de "KEYWORDS" en cada una de las secciones de la pagina.
+- Inclusión de la meta "DESCRIPTION" en cada una de las secciones tratabdo de dar ideas claras.
+- Revision del linkeado de las paginas.
+- Verificacion del alt de las imagenes.
+- se comprimieron las imagenes
+- 
+
