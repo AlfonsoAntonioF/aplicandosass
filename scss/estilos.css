@@ -56,15 +56,20 @@
 }
 
 .row collage {
-  text-align: center;
-  margin-color: #3a0303;
-  margin: 2rem;
-  padding: 1rem;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
   -ms-flex-line-pack: distribute;
       align-content: space-around;
+}
+
+.row collage img {
+  text-align: center;
+  border-color: #3a0303;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 5px;
+  /*verificar*/
 }
 
 body {
